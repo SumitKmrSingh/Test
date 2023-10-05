@@ -1,4 +1,4 @@
 # Test
 This is my first repository.
 <br>
-Author - Sumit Kumar
+Author - Sumit Kumar (Apna College)
